@@ -30,7 +30,7 @@ Under the HTTP(S) Test Script Recorder, you put a View Results Tree that allows 
 The generated XML file can be loaded with the plugin so it can return you:
 - A list of samplers with parameters that you can potentially variabilize. It gives a list of samplers  where you can potentially extract the parameter value.
 With the example below, we can make the following  analogy:
-The sampler 0168--[/planning/tournee.cgi] has a parameter which calls session, we can potentially extract its parameter value for varibilization by putting a Regular Expression Extractor to the sampler 0148--[/login.cgi]
+The sampler **0168--[/planning/tournee.cgi]** has a parameter which calls session, we can potentially extract its parameter value for variabilization by putting a Regular Expression Extractor to the sampler **0148--[/login.cgi]**
 
 ![image](https://user-images.githubusercontent.com/2484866/182615004-337f2f39-2ba4-4383-b420-b6510615f6a2.png)
 
