@@ -1,4 +1,4 @@
-#jmeter_plugin_variabilization
+## Atakama Variabilization Plugin  :
 
 This plugin aims to assist the jmeter developper during the script development. 
 By putting it inside a thread Group with a module controller, it can go through all the samplers that are subelements of the module controller
@@ -9,7 +9,7 @@ It can give a lot of informations such as how many times a parameter occurs with
 
 ![pic1](https://user-images.githubusercontent.com/2484866/182579087-59225ac5-8abb-4a87-835a-2f202b1374fd.png)
 
-In fact,by scanning the current tree of jmeter, we can define if a parameter has multiple values in our script so we can suppose that we have to put somewhere between the alteration of the parameter value a regex or something to allow variabilization.
+In fact, by scanning the current tree of jmeter, we can define if a parameter has multiple values in our script so we can suppose that we have to put somewhere between the alteration of the parameter value a regex or something to allow variabilization.
 With a hundred of samplers to process, sometimes it is easy for the developper to forget the variabilization in one or many samplers, this plugin allows him to check easily if all the parameter values have been correctly variabilized.
 
 ![pic2](https://user-images.githubusercontent.com/2484866/182579496-d20fdd88-3419-445f-91ca-593a698b2f83.png)
