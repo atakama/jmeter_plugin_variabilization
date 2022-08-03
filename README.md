@@ -34,7 +34,7 @@ The sampler **0168--[/planning/tournee.cgi]** has a parameter which calls sessio
 
 ![image](https://user-images.githubusercontent.com/2484866/182615004-337f2f39-2ba4-4383-b420-b6510615f6a2.png)
 
-- All the parameters name, in which samplers they are and where you can extract the parameter value. For example,here we have the parameter session. At the right, the list of samplers where you can put an extractor and at the left all the samplers which contain the parameter session
+- All the parameters name, in which samplers they are and where you can extract the parameter value. For example,here we have the parameter session. At the right, the list of samplers where you can put an extractor and at the left all the samplers which contain the parameter "session"
 
 ![image](https://user-images.githubusercontent.com/2484866/182621023-af41db7a-65cd-4099-abb3-06fe046e476c.png)
 
