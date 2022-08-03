@@ -23,7 +23,7 @@ There are a few prerequisites to optimize the analyze with the plugin. First, yo
 ![image](https://user-images.githubusercontent.com/2484866/182613159-9c8b6b39-aa1c-4187-854c-3f49464a5316.png)
 
 
-Under the HTTP(S) Test Script Recorder, you put a View Results Tree that allows you to build a file that stores the capture. You configure the View Results Tree like below. It will create an XML file with all the informations necessary for our analysis
+Under the HTTP(S) Test Script Recorder, you put a View Results Tree that allows you to build a file that stores the capture. You configure the View Results Tree like below. It will create an XML file with all the necessary informations for our analysis
 
 ![pic5](https://user-images.githubusercontent.com/2484866/182613715-4cf8359d-b9e0-4fc7-a506-2065816dd24c.png).
 
