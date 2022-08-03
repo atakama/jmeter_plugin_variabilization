@@ -38,10 +38,10 @@ The sampler 0168--[/planning/tournee.cgi] has a parameter which calls session, w
 
 ![image](https://user-images.githubusercontent.com/2484866/182621023-af41db7a-65cd-4099-abb3-06fe046e476c.png)
 
-- This plugin can also process Bearer Authentication Token within the HTTP Headers. It can detect where it has to extract the token and where it has to change it within the HTTP Headers.  It is going to go through the jmeter tree and variabilize each parameter value that contains a token within the HTTP Headers
+- This plugin can also process the Bearer Authentication Token within the HTTP Headers. It can detect where it has to extract the token and where it has to change it within the HTTP Headers.  It is going to go through the jmeter tree and variabilize each parameter value that contains a token within the HTTP Headers
 
 ![pic4](https://user-images.githubusercontent.com/2484866/182610057-609aecb5-b2b7-41d9-9719-3603b796bc79.png)
 
-- It can display a list of potential parameters that you can variabilize with the CSV Data Set Config, so it helps for the creation of the CSV Data Set config and the variabilization within the samplers. You have to create a CSV DataSet Config in an element of the jmeter tree that is subelement of the module controller.
+- It can display a list of potential parameters that you can variabilize with the CSV Data Set Config, so it helps for the creation of the CSV Data Set config and the variabilization within the samplers. You have to create a CSV DataSet Config in an element of the jmeter tree that is a subelement of the module controller.
 
 ![pic6](https://user-images.githubusercontent.com/2484866/182652259-18d67f55-ed3e-4493-8362-180a6403941f.png)
