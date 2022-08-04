@@ -48,5 +48,5 @@ The sampler **0168--[/planning/tournee.cgi]** has a parameter which calls sessio
 
 ## License  :
 
-This plugin used a license file to work. Please contact us at **support-logiciels@atakama-technologies.com**
+This plugin uses a license file to work. Please contact us at **support-logiciels@atakama-technologies.com**
 
