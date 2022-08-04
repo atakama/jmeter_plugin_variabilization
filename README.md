@@ -45,3 +45,8 @@ The sampler **0168--[/planning/tournee.cgi]** has a parameter which calls sessio
 - It can display a list of potential parameters that you can variabilize with the CSV Data Set Config, so it helps for the creation of the CSV Data Set config and the variabilization within the samplers. You have to create a CSV DataSet Config in an element of the jmeter tree that is a subelement of the module controller.
 
 ![pic6](https://user-images.githubusercontent.com/2484866/182652259-18d67f55-ed3e-4493-8362-180a6403941f.png)
+
+## License  :
+
+This plugin used a license file to work. Please contact us at **support-logiciels@atakama-technologies.com**
+
