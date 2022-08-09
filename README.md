@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/2484866/183616355-47012003-dd64-43d3-ad81-8130355c6f02.png)
+
+
 ## Atakama Variabilization Plugin  :
 
 This plugin aims to assist the jmeter developer during the script development. 
