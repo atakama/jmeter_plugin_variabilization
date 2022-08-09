@@ -1,4 +1,8 @@
-![image](https://user-images.githubusercontent.com/2484866/183616355-47012003-dd64-43d3-ad81-8130355c6f02.png)
+<img align="right" width="100" height="25" src="https://user-images.githubusercontent.com/2484866/183616355-47012003-dd64-43d3-ad81-8130355c6f02.png"><img align="left" width="200" height="100" src="https://user-images.githubusercontent.com/2484866/183617885-138168ce-1074-4583-80e5-ce4ade236b2e.png"></br></br></br></br>
+
+
+
+
 
 **WebSite:** https://www.atakama-technologies.com/
 
