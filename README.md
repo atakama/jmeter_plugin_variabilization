@@ -1,6 +1,6 @@
 ## Atakama Variabilization Plugin  :
 
-This plugin aims to assist the jmeter developper during the script development. 
+This plugin aims to assist the jmeter developer during the script development. 
 By putting it inside a thread Group with a module controller, it can go through all the samplers that are subelements of the module controller
 
 ![image](https://user-images.githubusercontent.com/2484866/182611112-19605d2d-40e1-4cf4-a114-0e2dfe54cf3a.png)
@@ -10,7 +10,7 @@ It can give a lot of informations such as how many times a parameter occurs with
 ![pic1](https://user-images.githubusercontent.com/2484866/182579087-59225ac5-8abb-4a87-835a-2f202b1374fd.png)
 
 In fact, by scanning the current tree of jmeter, we can define if a parameter has multiple values in our script so we can suppose that we have to put somewhere between the alteration of the parameter value a regex or something to allow variabilization.
-With a hundred of samplers to process, sometimes it is easy for the developper to forget the variabilization in one or many samplers, this plugin allows him to check easily if all the parameter values have been correctly variabilized.
+With a hundred of samplers to process, sometimes it is easy for the developer to forget the variabilization in one or many samplers, this plugin allows him to check easily if all the parameter values have been correctly variabilized.
 
 ![pic2](https://user-images.githubusercontent.com/2484866/182579496-d20fdd88-3419-445f-91ca-593a698b2f83.png)
 
@@ -18,7 +18,7 @@ The plugin can display you all the samplers that are connected to the parameter 
 
 ![pic3](https://user-images.githubusercontent.com/2484866/182579881-3ecb3753-95c8-4b2c-9687-104f1a4a5a33.png)
 
-One particularity of this plugin is the fact that it helps you with a recording file of your scenario to know where you can extract your variable. It can also suggest you a Regular Expression Extractor to the sampler that it considers as an element where it can extract the variable. More than that, it is going to reach each sampler concerned by the variable and variabilize each parameter value automatically without having the developper to search it manually in the jmeter tree. It is a huge time saving for the developper because we all know that with hundred of samplers to look at, it can be a huge time consuming if he does it manually. 
+One particularity of this plugin is the fact that it helps you with a recording file of your scenario to know where you can extract your variable. It can also suggest you a Regular Expression Extractor to the sampler that it considers as an element where it can extract the variable. More than that, it is going to reach each sampler concerned by the variable and variabilize each parameter value automatically without having the developer to search it manually in the jmeter tree. It is a huge time saving for the developer because we all know that with hundred of samplers to look at, it can be a huge time consuming if he does it manually. 
 There are a few prerequisites to optimize the analyze with the plugin. First, you need to know how to create the recording file that your are going to give to the plugin for analysis. To do so,to avoid having a lot of samplers that are not useful for your test, you have to put the correct filters for the HTTP(S) Test Script Recorder
 ![image](https://user-images.githubusercontent.com/2484866/182613159-9c8b6b39-aa1c-4187-854c-3f49464a5316.png)
 
