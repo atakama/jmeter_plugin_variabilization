@@ -56,5 +56,5 @@ The sampler **0168--[/XXXXXXXXX]** has a parameter which calls session, we can p
 
 ## License  :
 
-This plugin uses a license file to work. Please contact us at **support-logiciels@atakama-technologies.com**
+This plugin uses a license file to work. Please contact us at **ldeville@atakama-technologies.com**
 
