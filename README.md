@@ -58,6 +58,6 @@ The sampler **0168--[/XXXXXXXXX]** has a parameter which calls session, we can p
 
 This plugin uses a license file to work. Please contact us at **ldeville@atakama-technologies.com**
 
-![image](https://user-images.githubusercontent.com/2484866/187166094-672dce3b-c4e1-4819-bf33-a72063f4d6f4.png)
+![image](https://user-images.githubusercontent.com/2484866/187166510-6b05c4a3-7293-495b-a4d9-1509abb6be91.png)
 
 
