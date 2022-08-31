@@ -54,10 +54,14 @@ The sampler **0168--[/XXXXXXXXX]** has a parameter which calls session, we can p
 
 ![182652259-18d67f55-ed3e-4493-8362-180a6403941f](https://user-images.githubusercontent.com/2484866/185175548-f0784be6-aaf7-4f89-9bd9-893e23149137.png)
 
-## License  :
+## About ATAKAMA Technologies  :
 
-This plugin uses a license file to work. Please contact us at **ldeville@atakama-technologies.com**
+**<ins>Get free trial license email to Lea Deville</ins>** : **<ins>ldeville@atakama-technologies.com</ins>**
 
-![image](https://user-images.githubusercontent.com/2484866/187166510-6b05c4a3-7293-495b-a4d9-1509abb6be91.png)
+- ATAKAMA is a leading MSP for load testing projects
+
+- ATAKAMA provides Powerhouse Nudge Performer the most complete Performance Testing Tool  including Performance Infrastructure Monitoring, APM, RUM (Real user Monitoring on several locations worldwide), Web page in depth performance analysis
+
+- ATAKAMA provides Powerhouse Nudge APM strongly oriented for Application Performance Monitoring and in depth diagnosys and profiling for developers
 
 
