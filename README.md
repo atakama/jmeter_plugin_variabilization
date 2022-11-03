@@ -6,7 +6,6 @@
 
 **WebSite:** https://www.atakama-technologies.com/
 
-
 ## Atakama Variabilization Plugin  :
 
 This plugin aims to assist the jmeter developer during the script development. 
@@ -56,7 +55,7 @@ The sampler **0168--[/XXXXXXXXX]** has a parameter which calls session, we can p
 
 ## About ATAKAMA Technologies  :
 
-**<ins>Get free trial license email to Lea Deville</ins>** : **<ins>ldeville@atakama-technologies.com</ins>**
+**<ins>Request a free trial license here</ins>** : **<ins> https://ph-eval.atakama-technologies.com/downloadWebsite/index.php/product/show?id=1</ins>**
 
 - ATAKAMA is a leading MSP for load testing projects
 
