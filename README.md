@@ -32,7 +32,7 @@ There are a few prerequisites to optimize the analyze with the plugin. First, yo
 
 Under the HTTP(S) Test Script Recorder, you put a View Results Tree that allows you to build a file that stores the capture. You configure the View Results Tree like below. It will create an XML file with all the necessary informations for our analysis
 
-![image](https://user-images.githubusercontent.com/2484866/182889117-77232247-f08f-434a-9d3b-a21d8b03bd44.png)
+![image](https://github.com/atakama/jmeter_plugin_variabilization/assets/2484866/e1cd4c9c-da5d-4efc-ab99-47ae4b6826ba)
 
 The generated XML file can be loaded with the plugin so it can return you:
 - A list of samplers with parameters that you can potentially variabilize. It gives a list of samplers  where you can potentially extract the parameter value.
